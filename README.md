@@ -1,7 +1,7 @@
 # E-Commerce Sales Performance Dashboard 
 
 # Dashboard Preview
-![Dashboard](Sale performance dashboard.png)
+![Dashboard](Sale_performance_dashboard.png)
 
 # Live Dashboard
 
