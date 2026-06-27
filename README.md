@@ -1,4 +1,7 @@
-# E-Commerce Sales Performance Dashboard (Power BI)
+# E-Commerce Sales Performance Dashboard 
+
+# Dashboard Preview
+![Dashboard](Sale performance dashboard.png)
 
 # Live Dashboard
 
